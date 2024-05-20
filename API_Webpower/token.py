@@ -1,5 +1,13 @@
 import requests
 
+"""To use
+token_obj = Token(client_id, client_secret, token_url)
+    
+# Getting access token
+token_obj.create_token()
+
+token = token_obj.get_token()
+"""
 
 class Token():
     def __init__(self, client_id:str, client_secret:str, token_url:str):
