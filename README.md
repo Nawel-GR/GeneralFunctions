@@ -1,2 +1,2 @@
 # GeneralFunctions
-general multipurpose functions
+Funciones de proposito general. Principalmente para la confección de ETL/ELT.
